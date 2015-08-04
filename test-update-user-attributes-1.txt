@@ -1,0 +1,2 @@
+UserID	LastName	FirstName	DisplayName	Role	OfficeLocation	Department	CostCenter	Phone	NetworkID	DefaultWorkspaceName	DefaultProjectName	TimeZone
+simmons3k@yahoo.com	Simmonstest2	Ricktest2		Scrum Master				215-555-1234		Workspace 1	SD Team Test	

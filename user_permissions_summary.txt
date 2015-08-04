@@ -1,0 +1,1337 @@
+UserID	LastName	FirstName	DisplayName	Type	Workspace	WorkspaceOrProjectName	Role	TeamMember	ObjectID
+aditya.prahalad@sherwin.com	Prahalad	Aditya		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+aditya.prahalad@sherwin.com	Prahalad	Aditya		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Admin	Yes	38084011872
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+aditya.prahalad@sherwin.com	Prahalad	Aditya		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+alissa.shively@rosetta.com	Shively	Alissa		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+alissa.shively@rosetta.com	Shively	Alissa		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Admin	Yes	38084011872
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+alissa.shively@rosetta.com	Shively	Alissa		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+alok.gupta@sherwin.com	Gupta	Alok		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+alok.gupta@sherwin.com	Gupta	Alok		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	Yes	39281439794
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	Yes	38084147220
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	Yes	39281332628
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	Orders & Inventory	Viewer	No	38084015327
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	Yes	39281441730
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	Yes	39281444293
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	Architecture	Editor	Yes	39281231018
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+alok.gupta@sherwin.com	Gupta	Alok		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+annmarie.bergman@sherwin.com	Bergman	Ann Marie		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	Release & Deploy	Viewer	No	39281439794
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Viewer	No	38084147220
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	Quality & Security	Viewer	No	39281332628
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	Yes	38084015327
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	Configuration Management	Viewer	No	39281441730
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	Infrastructure	Viewer	No	39281444293
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	Architecture	Viewer	No	39281231018
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+anurag.chaturvedi@expicient.com	Chaturvedi	Anurag		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	Orders & Inventory	Admin	Yes	38084015327
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+ashwin.mohanakumaran@expicient.com	Mohanakumaran	Ashwin		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+bart.p.phelps@sherwin.com	Phelps	Bart		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+bart.p.phelps@sherwin.com	Phelps	Bart		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+bart.p.phelps@sherwin.com	Phelps	Bart		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+bill.weber@rosetta.com	Weber	Bill		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+bill.weber@rosetta.com	Weber	Bill		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+bill.weber@rosetta.com	Weber	Bill		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+brian.d.cocherell@sherwin.com	Cocherell	Brian		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+brian.d.cocherell@sherwin.com	Cocherell	Brian		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	Yes	39281439794
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	Yes	38084147220
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	Yes	39281332628
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	Orders & Inventory	Viewer	No	38084015327
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	Yes	39281441730
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	Yes	39281444293
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	Architecture	Editor	Yes	39281231018
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+brian.d.cocherell@sherwin.com	Cocherell	Brian		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+brian.r.billman@sherwin.com	Billman	Brian		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+brian.r.billman@sherwin.com	Billman	Brian		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	MDM Grand	Admin	Yes	38084014825
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+brian.r.billman@sherwin.com	Billman	Brian		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	Electric Seagal	Admin	Yes	38084010674
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+chip.benedum@sherwin.com	Benedum	Emmett (Chip)	Chip Benedum	ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	Yes	39281439794
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	Yes	38084147220
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	Yes	39281332628
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	Orders & Inventory	Viewer	No	38084015327
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	Yes	39281441730
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	Yes	39281444293
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	Architecture	Editor	Yes	39281231018
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+daniel.acus-souders@sherwin.com	Acus-Souders	Daniel		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+daniel.j.raczka@sherwin.com	Raczka	Dan		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	Admin	N/A	35749896556
+daniel.j.raczka@sherwin.com	Raczka	Dan		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	Orders & Inventory	Admin	Yes	38084015327
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+daniel.r.humbel@sherwin.com	Humbal	Dan	humbeld	ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+dave.norris@sherwin.com	Norris	Dave	Dave	WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+dave.norris@sherwin.com	Norris	Dave	Dave	WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	Yes	39281439794
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	Yes	38084147220
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	Quality & Security	Editor	Yes	39281332628
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	Orders & Inventory	Viewer	No	38084015327
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	Configuration Management	Editor	Yes	39281441730
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	Infrastructure	Editor	Yes	39281444293
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	Architecture	Editor	Yes	39281231018
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+dave.norris@sherwin.com	Norris	Dave	Dave	ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	Maestros Commerce	Admin	Yes	40471777251
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	Maestros Corporate	Admin	Yes	40471779106
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	Maestros	Admin	Yes	38084014168
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+david.j.koenig@sherwin.com	Koenig	Dave	dkoenig	ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+david.m.irvin@sherwin.com	Irvin	Dave		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+david.m.irvin@sherwin.com	Irvin	Dave		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+david.m.irvin@sherwin.com	Irvin	Dave		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+david.t.koch@sherwin.com	Koch	Dave		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+david.t.koch@sherwin.com	Koch	Dave		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+david.t.koch@sherwin.com	Koch	Dave		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+eolimpio@resourceammirati.com	Olimpio	Eric		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+eolimpio@resourceammirati.com	Olimpio	Eric		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	Snaps	Admin	Yes	38084017618
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	RA UX	Admin	Yes	38084016476
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+eolimpio@resourceammirati.com	Olimpio	Eric		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+eric.n.dunn@sherwin.com	Dunn	Eric		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+eric.n.dunn@sherwin.com	Dunn	Eric		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Admin	Yes	38084011872
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+eric.n.dunn@sherwin.com	Dunn	Eric		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+frank.c.sims@sherwin.com	Sims	Frank		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+frank.c.sims@sherwin.com	Sims	Frank		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	Electric Seagal	Admin	Yes	38084010674
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+frank.c.sims@sherwin.com	Sims	Frank		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+frank.skrtic@sherwin.com	Skrtic	Frank		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+frank.skrtic@sherwin.com	Skrtic	Frank		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	Yes	39281439794
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	Yes	38084147220
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	Yes	39281332628
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	Orders & Inventory	Viewer	No	38084015327
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	Yes	39281441730
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	Yes	39281444293
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	Architecture	Editor	Yes	39281231018
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+frank.skrtic@sherwin.com	Skrtic	Frank		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+jack.j.gould@sherwin.com	Gould	Jack	Jack	WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+jack.j.gould@sherwin.com	Gould	Jack	Jack	WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	Yes	39281439794
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	Yes	38084147220
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	Quality & Security	Editor	Yes	39281332628
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	Orders & Inventory	Viewer	No	38084015327
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	Configuration Management	Editor	Yes	39281441730
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	Infrastructure	Editor	Yes	39281444293
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	Architecture	Editor	Yes	39281231018
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+jack.j.gould@sherwin.com	Gould	Jack	Jack	ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+james.d.bandy@sherwin.com	Bandy	James		N/A	N/A	N/A	N/A	N/A	N/A
+jason.gebura@rosetta.com	Gebura	Jason		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+jason.gebura@rosetta.com	Gebura	Jason		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	Yes	39281439794
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	Yes	38084147220
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	Yes	39281332628
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	Orders & Inventory	Viewer	No	38084015327
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	Yes	39281441730
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	Yes	39281444293
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	Architecture	Editor	Yes	39281231018
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+jason.gebura@rosetta.com	Gebura	Jason		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+jason.karney@sherwin.com	Karney	Jason		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+jason.karney@sherwin.com	Karney	Jason		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	Yes	39281439794
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	Yes	38084147220
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	Yes	39281332628
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	Orders & Inventory	Viewer	No	38084015327
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	Yes	39281441730
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	Yes	39281444293
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	Architecture	Editor	Yes	39281231018
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+jason.karney@sherwin.com	Karney	Jason		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+jboroi@resourceammirati.com	Boroi	Joe		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+jboroi@resourceammirati.com	Boroi	Joe		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Admin	No	38084011872
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+jboroi@resourceammirati.com	Boroi	Joe		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+jbremer@resource.com	Bremer	Jill		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+jbremer@resource.com	Bremer	Jill		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	Snaps	Admin	Yes	38084017618
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	RA UX	Admin	Yes	38084016476
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+jbremer@resource.com	Bremer	Jill		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	Maestros Commerce	Admin	Yes	40471777251
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	Maestros Corporate	Admin	Yes	40471779106
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	Maestros	Admin	Yes	38084014168
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+joe.r.kardamis@sherwin.com	Kardamis	Joe	Joe	ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+kelly.beechy@sherwin.com	Beechy	Kelly		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+kelly.beechy@sherwin.com	Beechy	Kelly		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	Yes	39281439794
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	Yes	38084147220
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	Yes	39281332628
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	Orders & Inventory	Viewer	No	38084015327
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	Yes	39281441730
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	Yes	39281444293
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	Architecture	Editor	Yes	39281231018
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+kelly.beechy@sherwin.com	Beechy	Kelly		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+larry.powers@expicient.com	Powers	Larry		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+larry.powers@expicient.com	Powers	Larry		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	Orders & Inventory	Admin	Yes	38084015327
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+larry.powers@expicient.com	Powers	Larry		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+lashunda.a.washington@sherwin.com	Washington	LaShunda		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+lashunda.a.washington@sherwin.com	Washington	LaShunda		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	MDM Grand	Admin	Yes	38084014825
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+lashunda.a.washington@sherwin.com	Washington	LaShunda		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+lconfar@resourceammirati.com	Confar	Lizz		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+lconfar@resourceammirati.com	Confar	Lizz		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	Snaps	Admin	Yes	38084017618
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	RA UX	Admin	Yes	38084016476
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+lconfar@resourceammirati.com	Confar	Lizz		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+lokesh.palla@sherwin.com	Palla	Lokesh		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+lokesh.palla@sherwin.com	Palla	Lokesh		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+lokesh.palla@sherwin.com	Palla	Lokesh		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+lori.a.domanick@sherwin.com	Domanick	Lori		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+lori.a.domanick@sherwin.com	Domanick	Lori		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+lori.a.domanick@sherwin.com	Domanick	Lori		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+louis.m.guzzo@sherwin.com	Guzzo	Louis		N/A	N/A	N/A	N/A	N/A	N/A
+madhukar.ashok@sherwin.com	Ashok	Madhukar		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+madhukar.ashok@sherwin.com	Ashok	Madhukar		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	Yes	39281439794
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	Yes	38084147220
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	Yes	39281332628
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	Orders & Inventory	Viewer	No	38084015327
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	Yes	39281441730
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	Yes	39281444293
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	Architecture	Editor	Yes	39281231018
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+madhukar.ashok@sherwin.com	Ashok	Madhukar		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+mansi.jain@expicient.com	Jain	Mansi		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+mansi.jain@expicient.com	Jain	Mansi		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	Release & Deploy	Viewer	No	39281439794
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Viewer	No	38084147220
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	Quality & Security	Viewer	No	39281332628
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	Yes	38084015327
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	Configuration Management	Viewer	No	39281441730
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	Infrastructure	Viewer	No	39281444293
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	Architecture	Viewer	No	39281231018
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+mansi.jain@expicient.com	Jain	Mansi		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+martina.jaegers@sherwin.com	Jaegers	Martina		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+martina.jaegers@sherwin.com	Jaegers	Martina		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Rally roll-out	Viewer	No	38508396110
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Quality & Security	Viewer	No	39281332628
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Configuration Management	Viewer	No	39281441730
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	TAG IT	Viewer	No	40255577270
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Infrastructure	Viewer	No	39281444293
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Coaching Team	Editor	Yes	40462776983
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Miscellaneous	Viewer	No	38125149433
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Release & Deploy	Viewer	No	39281439794
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Viewer	No	38084147220
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Program Issues	Viewer	No	38233378375
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Orders & Inventory	Viewer	No	38084015327
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Release Planning Logistics	Viewer	No	38125157652
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Architecture	Viewer	No	39281231018
+martina.jaegers@sherwin.com	Jaegers	Martina		ProjectPermission	Sherwin-Williams	Program Risks	Viewer	No	38217376601
+megan.l.brownsword@sherwin.com	Brownsword	Megan		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	Admin	N/A	35749896556
+meghan.vickers@sherwin.com	Vickers	Meghan		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+meghan.vickers@sherwin.com	Vickers	Meghan		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+meghan.vickers@sherwin.com	Vickers	Meghan		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+michael.c.dowell@sherwin.com	Dowell	Mike		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+michael.c.dowell@sherwin.com	Dowell	Mike		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	Electric Seagal	Admin	Yes	38084010674
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+michael.c.dowell@sherwin.com	Dowell	Mike		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	Orders & Inventory	Admin	Yes	38084015327
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+michael.d.blackwell@sherwin.com	Blackwell	Michael	Michael	ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+mike.d.caldwell@sherwin.com	Caldwell	Mike		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+mike.d.caldwell@sherwin.com	Caldwell	Mike		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+mike.d.caldwell@sherwin.com	Caldwell	Mike		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+mike.s.bubb@sherwin.com	Bubb	Mike		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+mike.s.bubb@sherwin.com	Bubb	Mike		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+mike.s.bubb@sherwin.com	Bubb	Mike		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+moses.chacko@sherwin.com	Chacko	Moses		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+moses.chacko@sherwin.com	Chacko	Moses		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	Yes	39281439794
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	Yes	38084147220
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	Yes	39281332628
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	Orders & Inventory	Viewer	No	38084015327
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	Yes	39281441730
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	Yes	39281444293
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	Architecture	Editor	Yes	39281231018
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+moses.chacko@sherwin.com	Chacko	Moses		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+mstec@sherwin.com	Stec	Matt		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+mstec@sherwin.com	Stec	Matt		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+mstec@sherwin.com	Stec	Matt		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+nikhil.singh@expicient.com	Singh	Nikhil		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+nikhil.singh@expicient.com	Singh	Nikhil		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	Release & Deploy	Viewer	No	39281439794
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Viewer	No	38084147220
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	Quality & Security	Viewer	No	39281332628
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	Yes	38084015327
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	Configuration Management	Viewer	No	39281441730
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	Infrastructure	Viewer	No	39281444293
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	Architecture	Viewer	No	39281231018
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+nikhil.singh@expicient.com	Singh	Nikhil		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	Yes	39281439794
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	Yes	38084147220
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	Yes	39281332628
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	Orders & Inventory	Viewer	No	38084015327
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	Yes	39281441730
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	Yes	39281444293
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	Architecture	Editor	Yes	39281231018
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+oluwakemi.a.bamidele@sherwin.com	Bamidele	Kemi		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	MDM Grand	Admin	Yes	38084014825
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+oz.zapata@sherwin.com	Zapata	Oz	Oz Z	ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+paul.b.schmid@sherwin.com	Schmid	Paul		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+paul.b.schmid@sherwin.com	Schmid	Paul		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	Release & Deploy	Admin	Yes	39281439794
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Admin	Yes	38084147220
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	Quality & Security	Admin	Yes	39281332628
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	Configuration Management	Admin	Yes	39281441730
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	Infrastructure	Admin	Yes	39281444293
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	Architecture	Admin	Yes	39281231018
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+paul.b.schmid@sherwin.com	Schmid	Paul		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+peter.j.guye@sherwin.com	Guye	Pete		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+peter.j.guye@sherwin.com	Guye	Pete		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+peter.j.guye@sherwin.com	Guye	Pete		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+rally@sherwin.com				N/A	N/A	N/A	N/A	N/A	N/A
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	Yes	39281439794
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	Yes	38084147220
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	Quality & Security	Editor	Yes	39281332628
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	Orders & Inventory	Viewer	No	38084015327
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	Configuration Management	Editor	Yes	39281441730
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	Infrastructure	Editor	Yes	39281444293
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	Architecture	Editor	Yes	39281231018
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+ramkishore.chundru@sherwin.com	Chundru	Ramkishore	Kishore C	ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+rick.simmons@sherwin.com	Simmons	Rick		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	Admin	N/A	35749896556
+rick.simmons@sherwin.com	Simmons	Rick		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+ryan.malafarina@rosetta.com	Malafarina	Ryan		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+ryan.malafarina@rosetta.com	Malafarina	Ryan		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Admin	Yes	38084011872
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+ryan.malafarina@rosetta.com	Malafarina	Ryan		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+satinder.pal@expicient.com	Pal	Satinder		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+satinder.pal@expicient.com	Pal	Satinder		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	Release & Deploy	Viewer	No	39281439794
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Viewer	No	38084147220
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	Quality & Security	Viewer	No	39281332628
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	Yes	38084015327
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	Configuration Management	Viewer	No	39281441730
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	Infrastructure	Viewer	No	39281444293
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	Architecture	Viewer	No	39281231018
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+satinder.pal@expicient.com	Pal	Satinder		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+shankar.bose@expicient.com	Bose	Shankar		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+shankar.bose@expicient.com	Bose	Shankar		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	Release & Deploy	Viewer	No	39281439794
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Viewer	No	38084147220
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	Quality & Security	Viewer	No	39281332628
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	Yes	38084015327
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	Configuration Management	Viewer	No	39281441730
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	Infrastructure	Viewer	No	39281444293
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	Architecture	Viewer	No	39281231018
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+shankar.bose@expicient.com	Bose	Shankar		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+sharmila.bettes@sherwin.com	Bettes	Sharmila		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+sharmila.bettes@sherwin.com	Bettes	Sharmila		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	MDM Grand	Admin	Yes	38084014825
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+sharmila.bettes@sherwin.com	Bettes	Sharmila		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+slriley@sherwin.com	Riley	Stacy		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+slriley@sherwin.com	Riley	Stacy		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	Yes	39281439794
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	Yes	38084147220
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	Yes	39281332628
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	Orders & Inventory	Viewer	No	38084015327
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	Yes	39281441730
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	Yes	39281444293
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	Architecture	Editor	Yes	39281231018
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+slriley@sherwin.com	Riley	Stacy		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+spmcleod@sherwin.com	Mcleod	Shannon		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+spmcleod@sherwin.com	Mcleod	Shannon		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	Release & Deploy	Admin	Yes	39281439794
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Admin	Yes	38084147220
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	Quality & Security	Admin	Yes	39281332628
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	Configuration Management	Admin	Yes	39281441730
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	Infrastructure	Admin	Yes	39281444293
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	Architecture	Admin	Yes	39281231018
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+spmcleod@sherwin.com	Mcleod	Shannon		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	Yes	39281439794
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	Yes	38084147220
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	Yes	39281332628
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	Orders & Inventory	Viewer	No	38084015327
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	Yes	39281441730
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	Yes	39281444293
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	Architecture	Editor	Yes	39281231018
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+sreevidya.ayanampudi@sherwin.com	Ayanampudi	Sree		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	Electric Seagal	Admin	Yes	38084010674
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+thilynn.gallen@sherwin.com	Gallen	Thi Lynn		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+timothy.j.rhodes@sherwin.com	Rhodes	Tim		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+tom.kostakis@rosetta.com	Kostakis	Tom		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+tom.kostakis@rosetta.com	Kostakis	Tom		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+tom.kostakis@rosetta.com	Kostakis	Tom		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+tyler.k.musser@sherwin.com	Musser	Tyler		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+tyler.k.musser@sherwin.com	Musser	Tyler		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	Yes	39281439794
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	Yes	38084147220
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	Electric Seagal	Viewer	No	38084010674
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	Snaps	Viewer	No	38084017618
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	Yes	39281332628
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	Maestros Commerce	Viewer	No	40471777251
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	Maestros Corporate	Viewer	No	40471779106
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	Maestros	Viewer	No	38084014168
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	Orders & Inventory	Viewer	No	38084015327
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Viewer	No	39056810131
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	RA UX	Viewer	No	38084016476
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	Yes	39281441730
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Viewer	No	38084011872
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	Yes	39281444293
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	MDM Grand	Viewer	No	38084014825
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	Architecture	Editor	Yes	39281231018
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Viewer	No	38083858284
+tyler.k.musser@sherwin.com	Musser	Tyler		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601
+vmaurici@codifyd.com	Maurici	Vinny		WorkspacePermission	Sherwin-Williams	Sherwin-Williams	User	N/A	35749896556
+vmaurici@codifyd.com	Maurici	Vinny		WorkspacePermission	SW Sandbox	SW Sandbox	Admin	N/A	38507870867
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	Release & Deploy	Editor	No	39281439794
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	WCWBCT System Team	Editor	No	38084147220
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	Electric Seagal	Editor	No	38084010674
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	Snaps	Editor	No	38084017618
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	Quality & Security	Editor	No	39281332628
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	Maestros Commerce	Editor	No	40471777251
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	Maestros Corporate	Editor	No	40471779106
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	Maestros	Editor	No	38084014168
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	Program Issues	Editor	No	38233378375
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	Orders & Inventory	Editor	No	38084015327
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	E-Commerce Portfolio	Editor	No	39056810131
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	Sherwin-Williams	Viewer	No	38083633075
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	RA UX	Editor	No	38084016476
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	Configuration Management	Editor	No	39281441730
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	Low Nap Rollers	Editor	No	38084011872
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	Infrastructure	Editor	No	39281444293
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	MDM Grand	Editor	No	38084014825
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	Architecture	Editor	No	39281231018
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	E-Commerce Program ART	Editor	No	38083858284
+vmaurici@codifyd.com	Maurici	Vinny		ProjectPermission	Sherwin-Williams	Program Risks	Editor	No	38217376601

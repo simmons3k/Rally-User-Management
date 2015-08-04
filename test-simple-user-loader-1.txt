@@ -1,0 +1,2 @@
+UserID	LastName	FirstName	DisplayName	DefaultPermissions	Role	OfficeLocation	Department	CostCenter	Phone	NetworkID
+simmons3k@icloud.com	Simmonstest5	Ricktest5		template_user1@3kpartners.com						

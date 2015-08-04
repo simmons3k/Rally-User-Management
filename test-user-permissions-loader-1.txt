@@ -1,0 +1,2 @@
+UserID	LastName	FirstName	DisplayName	Type	Workspace	WorkspaceOrProjectName	Role	TeamMember	ObjectID
+simmons3k@icloud.com				ProjectPermission	Workspace 1	Sample Project	Editor	Yes	31814173471
