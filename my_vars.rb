@@ -1,5 +1,5 @@
-$my_username                = 'subadmin@companv.com'
-$my_password                = 'topsecret'
+$my_username                = 'rick.simmons@sherwin.com'
+$my_password                = 'secret'
 $my_base_url                = 'https://rally1.rallydev.com/slm'
 
 #API Version

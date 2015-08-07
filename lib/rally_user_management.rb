@@ -3,9 +3,9 @@
 #of the applicable Subscription Agreement between your company and
 #Rally Software Development Corp.
 
-require 'multi_io.rb'
-require 'rally_user_helper.rb'
-require 'version.rb'
+require './lib/multi_io.rb'
+require './lib/rally_user_helper.rb'
+require './lib/version.rb'
 
 module RallyUserManagement
 end
